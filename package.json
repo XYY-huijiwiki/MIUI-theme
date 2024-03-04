@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "xml-js": "^1.6.11"
+  }
+}
